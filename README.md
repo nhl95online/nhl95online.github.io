@@ -379,22 +379,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 ### People & Body
 
-- [Hand Fingers Open](#hand-fingers-open)
-- [Hand Fingers Partial](#hand-fingers-partial)
-- [Hand Single Finger](#hand-single-finger)
-- [Hand Fingers Closed](#hand-fingers-closed)
-- [Hands](#hands)
-- [Hand Prop](#hand-prop)
-- [Body Parts](#body-parts)
-- [Person](#person)
-- [Person Gesture](#person-gesture)
-- [Person Role](#person-role)
-- [Person Fantasy](#person-fantasy)
-- [Person Activity](#person-activity)
-- [Person Sport](#person-sport)
-- [Person Resting](#person-resting)
-- [Family](#family)
-- [Person Symbol](#person-symbol)
+
 
 #### Hand Fingers Open
 
